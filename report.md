@@ -49,4 +49,4 @@
 - ✅ Реалізовано гру за офіційним туторіалом.
 
 Скріншот реалізації:
-> ![tic-tac-toe](./screenshots/tic-tac-toe.png)
+> ![tic-tac-toe](https://github.com/volAndr1/lab-5/blob/8ffb58e95810266028ae596d87b282968df6b21b/chrome_m7YRBtQ1S0.png)
